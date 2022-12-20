@@ -1,6 +1,7 @@
 <?php
 
-require_once('wrap.php');
+require_once('wrap.php'); 
+
 // Test strings
 $lorem = <<<EOF
 Lo   rem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem nulla pharetra diam sit amet. Sagittis aliquam malesuada bibendum arcu vitae. Ultrices neque ornare aenean euismod. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Ut aliquam purus sit amet luctus venenatis lectus. Tortor condimentum lacinia quis vel eros. Urna cursus eget nunc scelerisque. Sit amet tellus cras adipiscing. Accumsan lacus vel facilisis volutpat est velit egestas dui. Et sollicitudin ac orci phasellus egestas tellus rutrum. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Mattis aliquam faucibus purus in massa tempor nec feugiat. Elementum curabitur vitae nunc sed velit. Neque volutpat ac tincidunt vitae semper quis lectus.

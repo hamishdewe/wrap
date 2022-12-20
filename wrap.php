@@ -2,7 +2,7 @@
 
 /**
  * Wrap a string to the supplied length, using \n newlines.
- * Will break words only if longer than allowed line length.
+ * Will break words only if longer than allowed line length. 
  *
  * @param string $string
  * @param integer $length
